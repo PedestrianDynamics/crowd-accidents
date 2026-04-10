@@ -1,5 +1,9 @@
 # crowd-accidents
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19483010.svg)](https://doi.org/10.5281/zenodo.19483010)
+[![Zenodo](https://img.shields.io/badge/Zenodo-19483010-1682D4?logo=zenodo)](https://zenodo.org/records/19483010)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 List of crowd accidents from 1900 to 2024.
 
 Source: [Zenodo record 19483010](https://zenodo.org/records/19483010) — DOI [10.5281/zenodo.19483010](https://doi.org/10.5281/zenodo.19483010).

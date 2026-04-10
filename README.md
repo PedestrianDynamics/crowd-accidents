@@ -5,8 +5,6 @@
 
 List of crowd accidents from 1900 to 2024.
 
-Source: [Zenodo record 19483010](https://zenodo.org/records/19483010) — DOI [10.5281/zenodo.19483010](https://doi.org/10.5281/zenodo.19483010).
-
 ![World map of crowd accidents, 1900–2024](map_accidents.jpg)
 
 ## Description

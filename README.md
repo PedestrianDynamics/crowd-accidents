@@ -1,6 +1,7 @@
 # crowd-accidents
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19483010.svg)](https://doi.org/10.5281/zenodo.19483010)
+[![Validate](https://github.com/PedestrianDynamics/crowd-accidents/actions/workflows/validate.yml/badge.svg)](https://github.com/PedestrianDynamics/crowd-accidents/actions/workflows/validate.yml)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 List of crowd accidents from 1900 to 2024.

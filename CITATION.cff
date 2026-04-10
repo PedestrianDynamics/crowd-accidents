@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+  - family-names: "Chraibi"
+    given-names: "Mohcine"
+    orcid: "https://orcid.org/0000-0002-0999-6807"
+title: "List of crowd accidents from 1900 to 2024"
+version: 1.0.0
+date-released: 2025-01-01
+doi: 10.5281/zenodo.19483010
+url: "https://github.com/PedestrianDynamics/crowd-accidents"
+repository-code: "https://github.com/PedestrianDynamics/crowd-accidents"
+license: CC-BY-4.0
+keywords:
+  - crowd accidents
+  - crowd crush
+  - stampede
+  - pedestrian dynamics
+  - crowd safety
+  - fatalities
+abstract: >
+  A curated dataset of crowd accidents (crushes, stampedes, and related
+  incidents) from 1900 to 2024. Each record includes date, location,
+  number of fatalities and injuries, cause, and a source reference.
+  The dataset is intended to support research in crowd safety and
+  pedestrian dynamics.

@@ -1,0 +1,62 @@
+Year,Month,Day,Country,City,Location,Event,Dead,Injured,Cause,Source
+1902,4,5,United Kingdom,Glasgow,Ibrox Park,Ibrox disaster – wooden terracing collapsed during Scotland vs England match,25,500,Structural collapse,https://en.wikipedia.org/wiki/1902_Ibrox_disaster
+1903,12,30,United States,Chicago,Iroquois Theatre,Iroquois Theatre fire and crush during Bluebeard pantomime,602,250,Fire/Crush,https://en.wikipedia.org/wiki/Iroquois_Theatre_fire
+1908,1,13,United States,Boyertown,Rhoads Opera House,Boyertown opera house fire,170,,Fire/Crush,https://en.wikipedia.org/wiki/Rhoads_Opera_House_fire
+1913,12,24,United States,Calumet,Italian Hall,Italian Hall disaster – false cry of fire at Christmas party,73,,Stampede/Panic,https://en.wikipedia.org/wiki/Italian_Hall_disaster
+1924,9,7,United States,Chicago,Belmont park,Belmont racing-stand collapse,1,50,Structural collapse,https://en.wikipedia.org/wiki/1924_Belmont_Park_stand_collapse
+1943,3,3,United Kingdom,London,Bethnal Green tube station,Bethnal Green tube shelter disaster,173,60,Crush/Stampede,https://en.wikipedia.org/wiki/Bethnal_Green_tube_station_disaster
+1946,3,9,United Kingdom,Bolton,Burnden Park,Burnden Park disaster – football match crowd crush,33,400,Crush,https://en.wikipedia.org/wiki/Burnden_Park_disaster
+1948,3,12,United States,Freehold,Monmouth Park,Monmouth Park racetrack stand collapse,14,,Structural collapse,
+1955,5,11,France,Le Mans,Circuit de la Sarthe,Le Mans disaster – racing car crash into spectators,84,120,Crash,https://en.wikipedia.org/wiki/1955_Le_Mans_disaster
+1964,5,24,Peru,Lima,Estadio Nacional,Lima football stadium disaster,328,500,Stampede/Panic,https://en.wikipedia.org/wiki/1964_Lima_football_stadium_disaster
+1969,6,23,Egypt,Cairo,Cairo railway station,Cairo train station stampede,49,,Stampede,
+1971,1,2,United Kingdom,Glasgow,Ibrox Stadium,Ibrox stadium disaster – stairway crush after Celtic vs Rangers match,66,200,Crush,https://en.wikipedia.org/wiki/Ibrox_stadium_disaster
+1974,12,1,Egypt,Cairo,Zamalek Stadium,Zamalek football stampede,49,,Stampede,
+1979,12,3,United States,Cincinnati,Riverfront Coliseum,The Who concert crush at Riverfront Coliseum,11,8,Crush,https://en.wikipedia.org/wiki/The_Who_Cincinnati_concert_disaster
+1981,10,20,Belgium,Brussels,Heysel Stadium,First Heysel incident during Belgium vs France match,2,,Crush,
+1982,10,20,Soviet Union,Moscow,Luzhniki Stadium,Luzhniki disaster – crush on stadium staircase after UEFA Cup match,66,61,Crush,https://en.wikipedia.org/wiki/Luzhniki_disaster
+1985,5,11,United Kingdom,Bradford,Bradford City AFC stadium,Bradford City stadium fire,56,265,Fire,https://en.wikipedia.org/wiki/Bradford_City_stadium_fire
+1985,5,29,Belgium,Brussels,Heysel Stadium,Heysel Stadium disaster before European Cup Final,39,600,Crush/Panic,https://en.wikipedia.org/wiki/Heysel_Stadium_disaster
+1986,3,12,India,Delhi,Delhi temple,Delhi temple stampede,91,,Stampede,
+1987,12,21,Philippines,Tablas Strait,MV Doña Paz,MV Doña Paz sinking – survivor crush on deck,2000,,Crush/Drowning,
+1988,5,5,Nepal,Kathmandu,Dasarath Rangasala Stadium,Nepal football stampede during India vs Nepal match,93,100,Stampede/Crush,https://en.wikipedia.org/wiki/1988_Nepal_football_stampede
+1988,7,13,Bangladesh,Dhaka,Shere Bangla National Stadium,Bangladesh football stampede,100,,Stampede,
+1989,4,15,United Kingdom,Sheffield,Hillsborough Stadium,Hillsborough disaster – FA Cup semi-final crowd crush,97,766,Crush,https://en.wikipedia.org/wiki/Hillsborough_disaster
+1990,7,2,Saudi Arabia,Mecca,Al-Ma'aisim tunnel,Mecca tunnel stampede during Hajj pilgrimage,1426,,Stampede,https://en.wikipedia.org/wiki/1990_Mecca_tunnel_disaster
+1991,10,16,South Africa,Orkney,Oppenheimer Stadium,Orkney Stadium disaster – football crowd crush,42,50,Crush,https://en.wikipedia.org/wiki/Orkney_Stadium_disaster
+1992,10,16,Cameroon,Yaoundé,Omnisports Stadium Ahmadou Ahidjo,Yaoundé Stadium disaster – crowd crush after football match,6,40,Crush,
+1994,5,23,Saudi Arabia,Mecca,Jamarat Bridge,Mecca Hajj stampede at Jamarat Bridge,270,,Stampede,https://en.wikipedia.org/wiki/1994_Mecca_stampede
+1996,6,9,Guatemala,Guatemala City,Estadio Mateo Flores,Guatemala City stadium crush,84,150,Crush,https://en.wikipedia.org/wiki/1996_Guatemala_City_stadium_disaster
+1998,4,9,Saudi Arabia,Mecca,Jamarat Bridge,Mecca Hajj stampede at Jamarat Bridge,118,,Stampede,https://en.wikipedia.org/wiki/1998_Mecca_stampede
+2000,7,30,Denmark,Copenhagen,Roskilde Festival,Roskilde festival crush during Pearl Jam concert,9,,Crush,https://en.wikipedia.org/wiki/Roskilde_Festival_disaster
+2001,4,11,Ghana,Accra,Accra Sports Stadium,Accra Sports Stadium disaster – police tear gas and stampede,126,93,Stampede/Panic,https://en.wikipedia.org/wiki/Accra_Sports_Stadium_disaster
+2001,2,11,Egypt,Cairo,Cairo football stadium,Port Said stadium – Cairo derby crowd crush,1,21,Crush,
+2003,2,17,United States,Chicago,E2 nightclub,E2 nightclub stampede,21,57,Stampede,https://en.wikipedia.org/wiki/E2_nightclub_incident
+2003,2,20,United States,West Warwick,The Station nightclub,The Station nightclub fire,100,230,Fire/Crush,https://en.wikipedia.org/wiki/The_Station_nightclub_fire
+2003,4,5,India,Nashik,Trimbakeshwar temple,Trimbakeshwar temple stampede,39,,Stampede,
+2004,2,1,Saudi Arabia,Mecca,Jamarat Bridge,Mecca Hajj stampede,251,,Stampede,https://en.wikipedia.org/wiki/2004_Mecca_stampede
+2005,8,31,Iraq,Baghdad,Al-Aaimmah bridge,Baghdad bridge stampede – false rumour of suicide bomber,953,816,Stampede/Panic,https://en.wikipedia.org/wiki/2005_Baghdad_bridge_stampede
+2006,1,12,Saudi Arabia,Mecca,Jamarat Bridge,Mecca Hajj stampede at Jamarat Bridge,346,289,Stampede,https://en.wikipedia.org/wiki/2006_Mecca_stampede
+2006,4,14,Philippines,General Santos,General Santos City coliseum,Philippines game-show stampede,74,300,Stampede,https://en.wikipedia.org/wiki/Philippines_crowd_crush_(2006)
+2007,8,1,India,Bhagalpur,Vijayadasami fair,Bhagalpur bridge stampede,28,,Stampede,
+2008,3,4,India,Jodhpur,Chamunda Devi temple,Chamunda Devi temple stampede,249,400,Stampede,https://en.wikipedia.org/wiki/2008_Chamunda_Devi_temple_stampede
+2008,11,28,United States,Valley Stream,Walmart,Walmart Black Friday stampede,1,4,Stampede,https://en.wikipedia.org/wiki/2008_Valley_Stream_New_York_Walmart_shooting
+2009,12,1,Angola,Luanda,Luanda stadium,Luanda stadium crush during Congo vs Angola match,13,,Crush,
+2010,7,24,Germany,Duisburg,Love Parade festival grounds,Love Parade disaster – tunnel crowd crush,21,652,Crush,https://en.wikipedia.org/wiki/Love_Parade_disaster
+2010,3,4,Ivory Coast,Abidjan,Félix Houphouët-Boigny bridge,Abidjan bridge stampede on New Year day,60,200,Stampede,https://en.wikipedia.org/wiki/2010_Abidjan_stampede
+2011,2,1,Egypt,Port Said,Port Said Stadium,Port Said Stadium disaster,74,1000,Violence/Crush,https://en.wikipedia.org/wiki/2012_Port_Said_Stadium_riot
+2013,10,10,India,Datia,Ratangarh temple bridge,Madhya Pradesh temple stampede,115,110,Stampede,https://en.wikipedia.org/wiki/2013_Madhya_Pradesh_temple_stampede
+2015,9,24,Saudi Arabia,Mecca,Mina,Mina stampede during Hajj pilgrimage,2411,934,Stampede,https://en.wikipedia.org/wiki/2015_Mecca_crane_collapse
+2016,10,2,Ethiopia,Bishoftu,Irreecha festival,Irreecha festival stampede,55,100,Stampede/Panic,https://en.wikipedia.org/wiki/2016_Irreecha_massacre
+2017,11,18,Egypt,Cairo,Metro station,Cairo metro station crush,1,11,Crush,
+2018,5,1,India,Varanasi,Rajghat bridge,Varanasi bridge collapse and stampede,24,19,Structural collapse/Stampede,
+2019,9,11,Tanzania,Dar es Salaam,Julius Nyerere Stadium,Tanzania stadium crush during football match,7,45,Crush,
+2021,4,29,Israel,Meron,Mount Meron,Lag Ba'Omer pilgrimage crush at Mount Meron,45,150,Crush,https://en.wikipedia.org/wiki/2021_Meron_crowd_crush
+2021,11,5,United States,Houston,Astroworld festival,Astroworld festival crowd crush during Travis Scott performance,10,300,Crush,https://en.wikipedia.org/wiki/2021_Astroworld_festival_crowd_crush
+2022,10,1,Indonesia,Malang,Kanjuruhan Stadium,Kanjuruhan stadium disaster after Arema FC vs Persebaya match,135,583,Crush/Stampede,https://en.wikipedia.org/wiki/2022_Kanjuruhan_stadium_disaster
+2022,10,29,South Korea,Seoul,Itaewon,Itaewon Halloween crowd crush,159,196,Crush,https://en.wikipedia.org/wiki/2022_Itaewon_crowd_crush
+2023,1,22,India,Rajasthan,Suratgarh,Suratgarh religious gathering stampede,3,15,Stampede,
+2023,7,21,Spain,Murcia,Teatre nightclub,Murcia nightclub fire,13,5,Fire/Crush,https://en.wikipedia.org/wiki/2023_Murcia_nightclub_fire
+2024,3,18,India,Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,Maharashtra political rally stampede,6,40,Stampede,
+2024,7,2,India,Hathras,Hathras,Hathras religious gathering stampede,121,28,Stampede,https://en.wikipedia.org/wiki/2024_Hathras_stampede
+2024,9,12,Nigeria,Abuja,National Stadium,Abuja concert stampede,11,56,Stampede,

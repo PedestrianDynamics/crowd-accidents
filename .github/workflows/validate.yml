@@ -1,0 +1,27 @@
+name: Validate crowd-accidents data
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "data/**"
+      - "scripts/validate_data.py"
+  pull_request:
+    branches: ["main"]
+    paths:
+      - "data/**"
+      - "scripts/validate_data.py"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Validate CSV data
+        run: python scripts/validate_data.py

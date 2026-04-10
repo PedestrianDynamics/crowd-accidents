@@ -3,7 +3,8 @@
 
 Checks:
 - Required columns are present
-- Year is an integer between 1900 and the current year
+- Year is an integer in [1900, current year]; the dataset covers 1900–2024
+  but the upper bound tracks the current year to allow ongoing maintenance
 - Month, if present, is an integer between 1 and 12
 - Day, if present, is an integer between 1 and 31
 - Dead is a non-negative integer

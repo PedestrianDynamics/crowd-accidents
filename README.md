@@ -68,4 +68,4 @@ A `CITATION.cff` file is also provided for automated citation tools.
 ## License
 
 The dataset is released under the
-[Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE) licence.
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE) license.

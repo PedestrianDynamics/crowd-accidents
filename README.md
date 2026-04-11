@@ -24,6 +24,10 @@ The dataset includes standardized dates, countries, and locations. Casualty figu
 | `references/` | Source materials for each accident |
 | `gis_data/` | Shapefiles for mapping applications |
 
+## Contributing
+
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) for how to report issues, add events, and run the validator locally.
+
 ## Citation
 
 If you use this dataset, please cite it. See [`CITATION.cff`](CITATION.cff) or use:
